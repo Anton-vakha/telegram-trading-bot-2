@@ -1,1 +1,1 @@
-worker: python main_full_bot_signals_multi_default8.py
+workeworker: python main_full_bot_signals_multi_default8_debug_token.py
